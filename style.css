@@ -2,10 +2,10 @@ p {
     font-size: 20px;
 }
 div p {
-    color: green;
+    color: red;
 }
 div h2 {
-    color: red;
+    color: blue;
 }
 p, h2 {
     font-family: 'Courier New', Courier, monospace;
