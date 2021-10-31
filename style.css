@@ -5,7 +5,7 @@ div p {
     color: green;
 }
 div h2 {
-    color: blue;
+    color: red;
 }
 p, h2 {
     font-family: 'Courier New', Courier, monospace;
