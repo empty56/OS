@@ -1,5 +1,6 @@
 p {
     font-size: 20px;
+    color: red;
 }
 div p {
     color: green;
@@ -14,10 +15,10 @@ p, div h2 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 #test {
-    color:red; 
+    color: yellowgreen; 
 }
 #test p {
-    color:blueviolet; 
+    color: blueviolet; 
 }
 #test p, h2 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
