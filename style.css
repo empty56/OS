@@ -4,9 +4,6 @@ p {
 div p {
     color: green;
 }
-div h1 {
-    color: red !important;
-}
 div h2 {
     color: blue;
 }
@@ -17,7 +14,7 @@ p, div h2 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 #test {
-    color: yellowgreen; 
+    color: red; 
 }
 #test p {
     color: blueviolet; 
